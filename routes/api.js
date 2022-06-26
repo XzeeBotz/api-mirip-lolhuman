@@ -5,7 +5,7 @@
 // Thanks to ( jgn di hapus jamet)
 /*
 <p> Loli Killers</p>
-<p> Rynz</p>
+<p> BOT OFFICIAL</p>
 <p> Eka Danuarta</p>
 <p> ZeeoneOfc </p>
 <p> Creative Time [ For Template ]</p>
@@ -22,8 +22,8 @@ var lolkill = db.get("lolkill");
 	console.log('')
 }
 
-var creator = 'ZeeoneOfc' // ubah jadi nama lu
-const listkey = ["Alphabot","Zeeone","ZeeoneOfc"]; // ubah apikey nya, tambah aja klo mau
+var creator = 'MrclNotWibu' // ubah jadi nama lu
+const listkey = ["BotID","23120899","MrclNotWibu"]; // ubah apikey nya, tambah aja klo mau
 
 var axios = require('axios');
 var qs = require('qs');
